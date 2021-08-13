@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/native/day4/D3p1/D4p1.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/device-drivers/native/day4/D3p1/D4p1.ko /home/pi/device-drivers/native/day4/D3p1/D4p1.o /home/pi/device-drivers/native/day4/D3p1/D4p1.mod.o;  true

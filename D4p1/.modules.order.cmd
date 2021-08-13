@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/native/day4/D3p1/modules.order := {   echo /home/pi/device-drivers/native/day4/D3p1/D4p1.ko; :; } | awk '!x[$$0]++' - > /home/pi/device-drivers/native/day4/D3p1/modules.order
